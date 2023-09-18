@@ -19,12 +19,21 @@ You will need to download raylib to run this game.
   use the link below to find videos showing you how to download raylib.
   https://www.bing.com/videos/riverview/relatedvideo?&q=install%20raylib%20windows&mid=8A4E4F902D78255510BE8A4E4F902D78255510BE&ajaxhist=0
 
+## Controls
+How to Play?
+
+![Play](/Screenshots/Play.jpg)
+
+Action Keys!
+
+![Action](/Screenshots/Action.jpg)
+
 ## Screenshots
-### Image of Start
-![START](/Screenshots/Start.png)
+### Image of Start :game_die:
+![START](/Screenshots/Start.jpg)
 
 ### Red Wins! 	:upside_down_face:
-![Red](/Screenshots/Start.png)
+![Red](/Screenshots/Start.jpg)
 
 ### Green Wins! 		:grin:
-![Red](/Screenshots/Start.png)
+![Red](/Screenshots/Start.jpg)
