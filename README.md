@@ -20,11 +20,11 @@ You will need to download raylib to run this game.
   https://www.bing.com/videos/riverview/relatedvideo?&q=install%20raylib%20windows&mid=8A4E4F902D78255510BE8A4E4F902D78255510BE&ajaxhist=0
 
 ## Controls
-How to Play?
+How to Play? :joystick:
 
-![Play](/Screenshots/Play.jpg)
+![Play](/Screenshots/Play.jpg) 
 
-Action Keys!
+Action Keys!  :trophy:
 
 ![Action](/Screenshots/Action.jpg)
 
