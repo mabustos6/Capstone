@@ -9,7 +9,7 @@ The game was designed using C++ language and the Raylib library.
 
 Pong is a table tennis–themed twitch arcade sports video game, featuring simple two-dimensional graphics, manufactured by Atari and originally released in 1972. It was one of the earliest arcade video games; it was created by Allan Alcorn as a training exercise assigned to him by Atari co-founder Nolan Bushnell, but Bushnell and Atari co-founder Ted Dabney were surprised by the quality of Alcorn's work and decided to manufacture the game
 
-![GIF](/giphy.gif)
+![GIF](/pong.gif)
 
 ## Building the Game
 You will need to download raylib to run this game.
