@@ -95,7 +95,7 @@ Capstone.sln View
 ![START](/Screenshots/Start.jpg)
 
 ### Red Wins! 	:upside_down_face:
-![Red](/Screenshots/Start.jpg)
+![Red](/Screenshots/red.jpg)
 
 ### Green Wins! 		:grin:
-![Red](/Screenshots/Start.jpg)
+![Red](/Screenshots/green.jpg)
