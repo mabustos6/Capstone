@@ -43,11 +43,11 @@ This Galaga project addresses the following rubric points for the Udacity capsto
 You will need to download raylib to run this game.
 
 ### Installing and building raylib via vcpkg
-  git clone https://github.com/Microsoft/vcpkg.git
-  cd vcpkg
-  bootstrap-vcpkg.bat
-  vcpkg integrate install
-  vcpkg install raylib
+* git clone https://github.com/Microsoft/vcpkg.git 
+* cd vcpkg 
+* bootstrap-vcpkg.bat 
+* vcpkg integrate install 
+ * vcpkg install raylib
 
   ### or
   
@@ -55,7 +55,7 @@ You will need to download raylib to run this game.
   https://www.bing.com/videos/riverview/relatedvideo?&q=install%20raylib%20windows&mid=8A4E4F902D78255510BE8A4E4F902D78255510BE&ajaxhist=0
 
 ## Basic Build Instructions :page_facing_up:
-1. Clone this repo
+1. Clone this repo https://github.com/mabustos6/Capstone.git
 2. Ensure raylib is installed and added
 3. debug Capstone.vcxproj
 
@@ -67,7 +67,7 @@ Capstone.sln View
 
 ### or
 
-1. Clone this repo
+1. Clone this repo https://github.com/mabustos6/Capstone.git
 2. Ensure raylib is installed and added
 3. Build  <mark> Capstone.vcxproj </mark>
 
