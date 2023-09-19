@@ -12,7 +12,7 @@ bool Game::Close()
 
 Game::Game(int screenWidth, int screenHeight)
 {
-    auto &title = Game::Tittle;
+    auto &title = Game::Tittle = "Pong";
     InitWindow(screenWidth, screenHeight, title);
     SetWindowState(FLAG_VSYNC_HINT);
     ball.initBall(500, 500, 15);

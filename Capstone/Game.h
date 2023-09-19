@@ -18,7 +18,7 @@ public:
     bool Close();
     void Play();
     std::mutex mtx;
-    const char* Tittle = "Pong";
+    const char* Tittle;
 
 private:
 
