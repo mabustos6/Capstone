@@ -11,7 +11,7 @@ Pong is a table tennis–themed twitch arcade sports video game, featuring simple 
 
 ![GIF](/pong.gif)
 
-## Project Rubric Satisfaction
+## Project Rubric Satisfaction  	:open_book:
 This Galaga project addresses the following rubric points for the Udacity capstone project.
 
 1. This README file.
@@ -39,7 +39,7 @@ This Galaga project addresses the following rubric points for the Udacity capsto
 	* There is an example of this in Game.cpp at line 3.
 
 
-## Dependencies for Running Locally
+## Dependencies for Running Locally :paperclips:
 You will need to download raylib to run this game.
 
 ### installing and building raylib via vcpkg
@@ -54,7 +54,7 @@ You will need to download raylib to run this game.
   use the link below to find videos showing you how to download raylib.
   https://www.bing.com/videos/riverview/relatedvideo?&q=install%20raylib%20windows&mid=8A4E4F902D78255510BE8A4E4F902D78255510BE&ajaxhist=0
 
-## Basic Build Instructions
+## Basic Build Instructions :page_facing_up:
 1. Clone this repo
 2. Ensure raylib is installed and added
 3. debug Capstone.vcxproj using DebugWin32
@@ -76,8 +76,8 @@ You will need to download raylib to run this game.
 
 ![exe](/Screenshots/exe.jpg) 
 
-## Controls
-### How to Play? :joystick:
+## Controls :joystick:
+### How to Play? :game_die:
 
 ![Play](/Screenshots/Play.jpg) 
 
