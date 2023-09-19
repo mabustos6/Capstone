@@ -77,7 +77,7 @@ You will need to download raylib to run this game.
 ![exe](/Screenshots/exe.jpg) 
 
 ## Controls :joystick:
-### How to Play? :game_die:
+### How to Play? :video_game:
 
 ![Play](/Screenshots/Play.jpg) 
 
