@@ -63,11 +63,17 @@ You will need to download raylib to run this game.
 
 1. Clone this repo
 2. Ensure raylib is installed and added
+
 3. Build  <mark> Capstone.vcxproj </mark>
+
 ![build](/Screenshots/build.jpg) 
+
 4. cd into <mark> .\Capstone\Debug\ </mark>
+
 ![cd](/Screenshots/cd.jpg) 
-1. Run it: <mark> .\Capstone.exe </mark>
+
+5. Run it: <mark> .\Capstone.exe </mark>
+
 ![exe](/Screenshots/exe.jpg) 
 
 ## Controls
